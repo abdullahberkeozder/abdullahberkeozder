@@ -1,4 +1,4 @@
-## 🔧 Tech Stack
+## 🔧💻 Tech Stack
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -8,6 +8,11 @@
 ![Styled Components](https://img.shields.io/badge/Styled_Components-5-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-18-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Github-181717?style=flat-square&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST-API-009688?style=flat-square)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=abdullahberkeozder&color=blueviolet)
 
 ## 📊 GitHub Stats
 
