@@ -11,11 +11,10 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST-API-009688?style=flat-square)
 
-
+## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=abdullahberkeozder&color=blueviolet)
 
 ## 📊 GitHub Stats
-
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahberkeozder&show_icons=true&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahberkeozder&theme=dark&hide_border=true&layout=compact)
