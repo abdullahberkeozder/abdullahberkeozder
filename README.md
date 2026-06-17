@@ -22,10 +22,32 @@ I work mostly with React, Vite, Supabase, PostgreSQL, and modern JavaScript. I c
 
 ## Tech Stack
 
-**Frontend:** React, JavaScript, TypeScript, Vite, React Router, Styled Components  
-**Backend and Data:** Supabase, PostgreSQL, Firebase, REST APIs  
-**Tools:** Git, GitHub, npm, VS Code  
-**Learning Areas:** Product-oriented UI, local service apps, data-driven systems
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+
+**Backend and Data**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+**Learning Areas**
+
+Product-oriented UI, local service apps, data-driven systems
 
 ## GitHub Stats
 
@@ -40,5 +62,7 @@ I work mostly with React, Vite, Supabase, PostgreSQL, and modern JavaScript. I c
 - Email: abdullahberkeozder@gmail.com
 
 ---
+
+![Profile views](https://komarev.com/ghpvc/?username=abdullahberkeozder&color=blueviolet&style=flat-square)
 
 Always improving, one project at a time.
